@@ -1,5 +1,5 @@
 # ListOfCitizens
-##Console app create a list of citizens. 
+## Console app create a list of citizens. 
 
 #How To Use
 ##1. Add Citizen
