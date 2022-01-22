@@ -15,7 +15,7 @@ namespace ListOfCitizens
         public static void Main(string[] args)
         {
             Citizens ListOfCitizens = new Citizens();
-
+            ListOfCitizens.AddCitizen("CITY", "FIRSTNAME", "LASTNAME", "82070323171");
             
             while(true)
             { 

@@ -40,10 +40,11 @@ namespace ListOfCitizens
 
         public bool CheckControlNumber(string pesel)
         {
+            if (pesel == "")
+                return false;
             int controlNumber = (pesel[pesel.Length-1] - '0'), sumOfNumbers=0;
             int[] pattern = { 1, 3, 7, 9, 1, 3, 7, 9, 1, 3};
             int i = 0;
-
             int[] numbers = pesel.Remove(pesel.Length-1).Select(c => c - '0').ToArray();
             foreach(int number in numbers)
             {
@@ -72,7 +73,17 @@ namespace ListOfCitizens
                 Console.WriteLine(citizen.City + " " + citizen.FirstName + " " + citizen.LastName + " " + citizen.Pesel);
             }
         }
-
+        public bool DeleteCitizenByPesel(string pesel) {
+            if(CheckControlNumber(pesel) == true);
+            foreach(Citizen citizen in Citizen)
+            {
+                if(citizen.Pesel == pesel) {
+                    Citizen.Remove(citizen);
+                    return true;
+                }
+            }
+            return false;
+        }
         private bool PeselAlreadyExist(string pesel)
         {
             foreach (Citizen citizen in Citizen)

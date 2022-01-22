@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mCHFaH+0hmgVMTv0OwtVEgWBB1myS5iItfp9w+fLiDVGjA//uzZ3y4vAiq4DWXK3xfq4zFS89mNzkNpijfl+Ew==",
+  "dgSpecHash": "pje3qIrPrlB+uffUmMkN7bBYaNQNfKR+pBeR4ZvVKMVzuQe/TxuQWUGVzC2TzGEZQ928Aa2MIRjd6xl/o5+l7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\Downloads\\Programowanie-20220109T223341Z-001\\Programowanie\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
+  "projectFilePath": "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
     "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\jakub\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

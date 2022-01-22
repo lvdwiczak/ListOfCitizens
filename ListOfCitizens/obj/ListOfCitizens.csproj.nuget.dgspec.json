@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Downloads\\Programowanie-20220109T223341Z-001\\Programowanie\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {}
+    "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Downloads\\Programowanie-20220109T223341Z-001\\Programowanie\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {
+    "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Downloads\\Programowanie-20220109T223341Z-001\\Programowanie\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
+        "projectUniqueName": "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
         "projectName": "ListOfCitizens",
-        "projectPath": "C:\\Users\\jakub\\Downloads\\Programowanie-20220109T223341Z-001\\Programowanie\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
+        "projectPath": "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Downloads\\Programowanie-20220109T223341Z-001\\Programowanie\\ListOfCitizens\\ListOfCitizens\\obj\\",
+        "outputPath": "E:\\123\\ListOfCitizens\\ListOfCitizens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.21, 3.1.21]"
+              "version": "[3.1.22, 3.1.22]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

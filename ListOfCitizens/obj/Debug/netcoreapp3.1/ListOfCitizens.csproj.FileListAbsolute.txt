@@ -26,3 +26,17 @@ C:\Users\jakub\Downloads\Programowanie-20220109T223341Z-001\Programowanie\ListOf
 C:\Users\jakub\Downloads\Programowanie-20220109T223341Z-001\Programowanie\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.dll
 C:\Users\jakub\Downloads\Programowanie-20220109T223341Z-001\Programowanie\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.pdb
 C:\Users\jakub\Downloads\Programowanie-20220109T223341Z-001\Programowanie\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.genruntimeconfig.cache
+E:\123\ListOfCitizens\ListOfCitizens\bin\Debug\netcoreapp3.1\ListOfCitizens.exe
+E:\123\ListOfCitizens\ListOfCitizens\bin\Debug\netcoreapp3.1\ListOfCitizens.deps.json
+E:\123\ListOfCitizens\ListOfCitizens\bin\Debug\netcoreapp3.1\ListOfCitizens.runtimeconfig.json
+E:\123\ListOfCitizens\ListOfCitizens\bin\Debug\netcoreapp3.1\ListOfCitizens.runtimeconfig.dev.json
+E:\123\ListOfCitizens\ListOfCitizens\bin\Debug\netcoreapp3.1\ListOfCitizens.dll
+E:\123\ListOfCitizens\ListOfCitizens\bin\Debug\netcoreapp3.1\ListOfCitizens.pdb
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.csproj.AssemblyReference.cache
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.GeneratedMSBuildEditorConfig.editorconfig
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.AssemblyInfoInputs.cache
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.AssemblyInfo.cs
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.csproj.CoreCompileInputs.cache
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.dll
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.pdb
+E:\123\ListOfCitizens\ListOfCitizens\obj\Debug\netcoreapp3.1\ListOfCitizens.genruntimeconfig.cache
