@@ -41,7 +41,7 @@ namespace ListOfCitizens
                             Console.WriteLine();
                             ListOfCitizens.DeleteCitizenByPesel();
                         break;
-                        case "4":
+                    case "4":
                         Console.WriteLine();
                         Console.WriteLine("Podaj nazwę pliku do którego chcesz zapisać listę: ");
                         Files.SaveFile(Console.ReadLine(), ListOfCitizens);

@@ -42,6 +42,8 @@ namespace ListOfCitizens
         {
             if (pesel == "")
                 return false;
+            if (pesel.Length != 11)
+                return false;
             int controlNumber = (pesel[pesel.Length-1] - '0'), sumOfNumbers=0;
             int[] pattern = { 1, 3, 7, 9, 1, 3, 7, 9, 1, 3};
             int i = 0;
@@ -73,7 +75,7 @@ namespace ListOfCitizens
                 Console.WriteLine(citizen.City + " " + citizen.FirstName + " " + citizen.LastName + " " + citizen.Pesel);
             }
         }
-        public bool DeleteCitizenByPesel() {
+        public void DeleteCitizenByPesel() {
             Console.Write("Podaj Pesel: ");
             string pesel = Console.ReadLine();
             if (CheckControlNumber(pesel) == true);
@@ -81,10 +83,8 @@ namespace ListOfCitizens
             {
                 if(citizen.Pesel == pesel) {
                     Citizen.Remove(citizen);
-                    return true;
                 }
             }
-            return false;
         }
         private bool PeselAlreadyExist(string pesel)
         {

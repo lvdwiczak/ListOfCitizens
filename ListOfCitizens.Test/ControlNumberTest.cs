@@ -21,7 +21,7 @@ namespace ListOfCitizens.Test
             Assert.AreEqual(true, result);
         }
         [Test]
-        public void CheckControlNumber_WhenPESELisInCorrect_ShouldAddInhabitant()
+        public void CheckControlNumber_WhenPESELisInCorrect_ShouldNotAddInhabitant()
         {
             //arrange
             var a = new Citizens();
@@ -31,7 +31,7 @@ namespace ListOfCitizens.Test
             Assert.AreEqual(false, result);
         }
         [Test]
-        public void CheckControlNumber_WhenPESELisNotANumber_ShouldAddInhabitant()
+        public void CheckControlNumber_WhenPESELisNotANumber_ShoulNotdAddInhabitant()
         {
             //arrange
             var a = new Citizens();
@@ -41,12 +41,32 @@ namespace ListOfCitizens.Test
             Assert.AreEqual(false, result);
         }
         [Test]
-        public void CheckControlNumber_WhenPESELisNull_ShouldAddInhabitant()
+        public void CheckControlNumber_WhenPESELisNull_ShouldNotAddInhabitant()
         {
             //arrange
             var a = new Citizens();
             //act
             var result = a.CheckControlNumber("");
+            //assert
+            Assert.AreEqual(false, result);
+        }
+        [Test]
+        public void CheckControlNumber_WhenPESELisLongerthan11Chars_ShouldNotAddInhabitant()
+        {
+            //arrange
+            var a = new Citizens();
+            //act
+            var result = a.CheckControlNumber("123456789101112");
+            //assert
+            Assert.AreEqual(false, result);
+        }
+        [Test]
+        public void CheckControlNumber_WhenPESELisShortherthan11chars_ShouldNotAddInhabitant()
+        {
+            //arrange
+            var a = new Citizens();
+            //act
+            var result = a.CheckControlNumber("123");
             //assert
             Assert.AreEqual(false, result);
         }

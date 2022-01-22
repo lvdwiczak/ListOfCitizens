@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UjQ47bmN8LmYN3vLeKmYQO1YBX67KT3SLmsw0Ecz/auieQq1jiugAPJUVuJcLa4LLtcTUG6BKQ4wDQ5exilOnw==",
+  "dgSpecHash": "e6vgK2o9I58DThMlaoHbIvQM9hbxzD4k8v5vbjt13Y4oQi5zkknlToS4j+oOoPw5wQa8P7ovEIwAjevEsHYKQw==",
   "success": true,
-  "projectFilePath": "E:\\123\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj",
+  "projectFilePath": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jakub\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\jakub\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

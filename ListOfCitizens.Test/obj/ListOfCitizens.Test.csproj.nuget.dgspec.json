@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\123\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj": {}
+    "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj": {}
   },
   "projects": {
-    "E:\\123\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj": {
+    "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\123\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj",
         "projectName": "ListOfCitizens.Test",
-        "projectPath": "E:\\123\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj",
+        "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens.Test\\ListOfCitizens.Test.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "E:\\123\\ListOfCitizens\\ListOfCitizens.Test\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {
-                "projectPath": "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj"
+              "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {
+                "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj"
               }
             }
           }
@@ -72,18 +72,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {
+    "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
         "projectName": "ListOfCitizens",
-        "projectPath": "E:\\123\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
+        "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens\\ListOfCitizens.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "E:\\123\\ListOfCitizens\\ListOfCitizens\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Documents\\GitHub\\ListOfCitizens\\ListOfCitizens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,7 +128,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.22, 3.1.22]"
+              "version": "[3.1.21, 3.1.21]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
