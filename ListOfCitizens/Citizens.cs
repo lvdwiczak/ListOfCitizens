@@ -73,8 +73,10 @@ namespace ListOfCitizens
                 Console.WriteLine(citizen.City + " " + citizen.FirstName + " " + citizen.LastName + " " + citizen.Pesel);
             }
         }
-        public bool DeleteCitizenByPesel(string pesel) {
-            if(CheckControlNumber(pesel) == true);
+        public bool DeleteCitizenByPesel() {
+            Console.Write("Podaj Pesel: ");
+            string pesel = Console.ReadLine();
+            if (CheckControlNumber(pesel) == true);
             foreach(Citizen citizen in Citizen)
             {
                 if(citizen.Pesel == pesel) {
